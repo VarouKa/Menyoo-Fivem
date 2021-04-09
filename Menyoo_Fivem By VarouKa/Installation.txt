@@ -1,0 +1,13 @@
+Pour avoir le menyoo sur fivem facile.
+
+Ouvrer votre explorateur de fichier puis cliquez dans la recherche de fichier.
+
+Vous copiez coller ceci C:\Users\Varou\AppData\Local\FiveM\FiveM.app\plugins
+puis vous insserez le Menyoo.asi dedans 
+
+Puis vous aller dans C:\Users\Varou\AppData\Local\FiveM\FiveM.app\cache\subprocess
+est vous glissez MenyooStuff dedans.
+
+vous lancer votre fivem vous aller sur votre server faites F4 est sa vous l'activeras.
+
+vérifiez bien que dans votre server.cfg vous avez active le ScriptHook.
